@@ -1,6 +1,7 @@
 # Stepper Motor
 Some exercises for machine shop practice taken in KUAS I was taking as a 2nd year student in 2023. The course provides students with valuable “hands–on” experience in the use of various machining tools including lathes, mills and drills, exploration of additive manufacturing technologies, specifically the creation of three-dimensional objects via 3D printing.\
 The final goal of the course was to assemble stepper motor, each part of which students were making by themselves, using different machines.
+
 <img src="https://github.com/MaksymAndreiev/StepperMotor/assets/29687267/a196169e-3abb-4cc7-8c08-f6fb6ac57c11" width="25%" height="25%">
 
 Then we had to programm it, so, the microcontroller program permanently repeats alternating one forward and one reverse rotation for the assembled stepper motor.\
